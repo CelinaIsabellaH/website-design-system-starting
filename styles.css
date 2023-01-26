@@ -1,0 +1,229 @@
+h1 {
+    position: static;
+    color:#77765d;
+    font-family: Montserrat, serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+body {
+    background-color:  #c5f1d8
+}
+
+
+h2 {
+    font-family: Poppins, sans-serif;
+    font-size: 35px;
+    text-decoration: underline;
+    color: #3d3a4b;
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+    width:
+    margin: 100px;
+    border: 2px whitesmoke solid;
+}
+
+
+.main
+ {
+    font-family: Ubuntu, serif;
+    font-size: 25px; 
+    color: #3d3a4b
+}
+
+.fontbody {
+    background-color: #EAD7A8
+    ;
+}
+
+.salmon  {
+    display: inline-block;
+    margin: 50px;
+    width: 250px;
+    padding: 50px;
+    background-color: #FA8072;
+    font-family: Ubuntu, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    border: solid 1px #6C5B5B;
+    color: #6C5B5B ;
+    border-radius: 25px;
+    
+}
+
+.salmon:hover{
+    color: white;
+}
+
+.blanchedalmond {
+    display: inline-block;
+    margin: 50px;
+    width: 250px;
+    padding: 50px;
+    background-color: #FFEBCD;
+    font-family: Ubuntu, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    border: solid 1px #6C5B5B;
+    color: #6C5B5B ;
+    border-radius: 25px;
+}
+
+.blanchedalmond:hover {
+    color: black;
+    
+}
+
+.paleturquoise {
+    display: inline-block;
+    margin: 50px;
+    width: 250px;
+    padding: 50px;
+    font-size: 35px;
+    background-color: paleturquoise;
+    border: solid 1px #6C5B5B;
+    font-family: Ubuntu, sans-serif;
+    text-align: center;
+    color: #6C5B5B ;
+    border-radius: 25px;
+}
+
+.paleturquoise:hover {
+    color: white;
+}
+
+.lavenderblush {
+    display: inline-block;
+    margin: 50px;
+    width: 250px;
+    padding: 50px;
+    font-size: 35px;
+    background-color: #FFF0F5;
+    border: solid 1px #6C5B5B;
+    font-family: Ubuntu, sans-serif;
+    text-align: center;
+    color: #6C5B5B ;
+    border-radius: 25px;
+}
+
+.lavenderblush:hover {
+    color: black;
+}
+/* Fonts */
+
+.fonts {
+    display: flex;
+    flex-direction: row;
+}
+
+.poppins {
+    font-size: 40px;
+    display: inline-block;
+    font-family: Poppins, sans-serif;
+    color: #6C5B5B 
+    
+}
+
+
+.ubuntu {
+    font-size: 40px;
+    font-family: Ubuntu;
+    color: #6C5B5B 
+}
+
+.oswald {
+    font-size: 40px;
+    font-family: Oswald;
+    color: #6C5B5B 
+}
+
+.montserrat {
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: Montserrat;
+    color: #6C5B5B 
+}
+
+.fox1 {
+    font-size: 20px;
+    font-family: Montserrat;
+    color: #6C5B5B 
+}
+
+.foxbold{
+    font-size: 20px;
+    font-style: bold;
+    font-family: Montserrat;
+    color: #6C5B5B 
+}
+
+.foxitalic{
+    font-size: 20px;
+    font-style: italic;
+    font-family: Montserrat;
+    color: #6C5B5B 
+}
+
+.ubuntu1 {
+    font-size: 20px;
+    font-family: Ubuntu;  
+    color: #6C5B5B 
+}
+
+.ubuntubold{
+    font-size: 20px;
+    font-style: bold;
+    font-family: Ubuntu;
+    color: #6C5B5B 
+}
+
+.ubuntuitalic{
+    font-size: 20px;
+    font-style: italic;
+    font-family: Ubuntu;
+    color: #6C5B5B 
+  
+}
+
+.oswald1{
+    font-size: 20px;
+    font-family: Oswald;
+    color: #6C5B5B 
+}
+
+.oswaldbold{
+    font-size: 20px;
+    font-style: bold;
+    font-family: Oswald;
+    color: #6C5B5B 
+}
+
+.oswalditalic{
+    font-size: 20px;
+    font-style: italic;
+    font-family: Oswald;
+    color: #6C5B5B 
+}
+
+.poppins1{
+    font-size: 20px;
+    font-family: Poppins;   
+    color: #6C5B5B 
+}
+
+.poppinsbold{
+    font-size: 20px;
+    font-style: bold;
+    font-family: Poppins;
+    color: #6C5B5B 
+}
+
+.poppinsitalic{
+    font-size: 20px;
+    font-style: italic;
+    font-family: Poppins; 
+    color: #6C5B5B 
+    
+}
